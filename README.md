@@ -9,7 +9,6 @@
 - YouTube Plus+ https://github.com/toka-kun/YouTube-Plus-Plus
 - Yuki YouTube+ https://github.com/toka-kun/Yuki-YouTube-Plus
 - YuZuTube https://github.com/toka-kun/YuZuTube
-- XeroYT https://github.com/toka-kun/XeroxYT-NTv3.0
 - Wool-Tube https://github.com/toka-kun/Wool-Tube-Normal
 - Wool-Tube Education版 https://github.com/toka-kun/Wool-Tube-Education
 - 初代仙人tube https://github.com/toka-kun/sennintube-1
