@@ -13,6 +13,7 @@
 - Wool-Tube Education版 https://github.com/toka-kun/Wool-Tube-Education
 - 初代仙人tube https://github.com/toka-kun/sennintube-1
 - 二代目仙人tube https://github.com/toka-kun/sennintube-2
+- 最新版仙人tube https://github.com/toka-kun/sennin-latest
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
