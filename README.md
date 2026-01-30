@@ -1,6 +1,6 @@
 ## こんにちは！
 
-主にYouTubeサイトの改良などをしています
+主にYouTubeサイトの改良などをしています。
 
 - わかめtube Eduとトレンド復活版 https://github.com/toka-kun/wkt
 - しあtube https://github.com/toka-kun/siatube
