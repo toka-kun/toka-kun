@@ -2,7 +2,7 @@
 
 主にYouTubeサイトの改良などをしています。
 
-- わかめtube Eduとトレンド復活版 https://github.com/toka-kun/wkt
+- わかめtube Eduとトレンド復活、KoyebとCsbでのデプロイに対応版 https://github.com/toka-kun/wkt
 - しあtube https://github.com/toka-kun/siatube
 - Chat-LABO5 https://github.com/toka-kun/CHAT-LABO5
 - MIN-Tube2 https://github.com/toka-kun/MIN-Tube2
