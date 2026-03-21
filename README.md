@@ -19,7 +19,6 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=toka-kun&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&count_private=true
 )<br>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/toka-kun/toka-kun/output/github-snake-dark.svg" />
