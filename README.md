@@ -12,9 +12,9 @@
 - チョコtube https://github.com/toka-kun/Choco-Tube
 - Wool-Tube https://github.com/toka-kun/Wool-Tube-Normal
 - Wool-Tube Education版 https://github.com/toka-kun/Wool-Tube-Education
-- 初代仙人tube https://github.com/toka-kun/sennintube-1
-- 二代目仙人tube https://github.com/toka-kun/sennintube-2
-- 最新版仙人tube https://github.com/toka-kun/sennin-latest
+- 初代仙人tube https://github.com/toka-kun/SenninTube-1
+- 二代目仙人tube https://github.com/toka-kun/SenninTube-2
+- 最新版仙人tube https://github.com/toka-kun/Sennin-Latest
 - かつおtube https://github.com/toka-kun/KatuoTube
 
 
