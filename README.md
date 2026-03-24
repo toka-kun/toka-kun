@@ -9,11 +9,13 @@
 - YouTube Plus+ https://github.com/toka-kun/YouTube-Plus-Plus
 - Yuki YouTube+ https://github.com/toka-kun/Yuki-YouTube-Plus
 - YuZuTube https://github.com/toka-kun/YuZuTube
+- チョコtube https://github.com/toka-kun/Choco-Tube
 - Wool-Tube https://github.com/toka-kun/Wool-Tube-Normal
 - Wool-Tube Education版 https://github.com/toka-kun/Wool-Tube-Education
 - 初代仙人tube https://github.com/toka-kun/sennintube-1
 - 二代目仙人tube https://github.com/toka-kun/sennintube-2
 - 最新版仙人tube https://github.com/toka-kun/sennin-latest
+- かつおtube https://github.com/toka-kun/KatuoTube
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=toka-kun&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&count_private=true
