@@ -6,6 +6,7 @@
 - しあtube https://github.com/toka-kun/siatube
 - Chat-LABO5 https://github.com/toka-kun/CHAT-LABO5
 - MIN-Tube2 https://github.com/toka-kun/MIN-Tube2
+- MIN-Tube-Pro https://github.com/toka-kun/MIN-Tube-Pro
 - YouTube Plus+ https://github.com/toka-kun/YouTube-Plus-Plus
 - Yuki YouTube+ https://github.com/toka-kun/Yuki-YouTube-Plus
 - YuZuTube https://github.com/toka-kun/YuZuTube
