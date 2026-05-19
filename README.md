@@ -17,6 +17,7 @@
 - 二代目仙人tube https://github.com/toka-kun/SenninTube-2
 - 最新版仙人tube https://github.com/toka-kun/Sennin-Latest
 - かつおtube https://github.com/toka-kun/KatuoTube
+- 仙人tube Plus https://github.com/toka-kun/Sennin-Plus
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=toka-kun&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&count_private=true
