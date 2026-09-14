@@ -3,21 +3,16 @@
 主にYouTubeサイトの改良などをしています。
 
 - わかめtube Plus https://github.com/toka-kun/wkt-Plus
-- しあtube https://github.com/toka-kun/siatube
-- Chat-LABO5 https://github.com/toka-kun/CHAT-LABO5
+- しあtube https://github.com/ajgpw/youtube
+- Re: LABO5 https://github.com/toka-kun/CHAT-LABO5
 - MIN-Tube2 https://github.com/toka-kun/MIN-Tube2
-- MIN-Tube-Pro https://github.com/toka-kun/Min-WLYT-Plus
-- YouTube Plus+ https://github.com/toka-kun/YouTube-Plus-Plus
-- Yuki YouTube+ https://github.com/toka-kun/Yuki-YouTube-Plus
-- YuZuTube https://github.com/toka-kun/YuZuTube
-- チョコtube https://github.com/toka-kun/Choco-Tube
-- Wool-Tube https://github.com/toka-kun/Wool-Tube-Normal
-- Wool-Tube Education版 https://github.com/toka-kun/Wool-Tube-Education
-- 初代仙人tube https://github.com/toka-kun/SenninTube-1
-- 二代目仙人tube https://github.com/toka-kun/SenninTube-2
-- 最新版仙人tube https://github.com/toka-kun/Sennin-Latest
-- かつおtube https://github.com/toka-kun/KatuoTube
-- 仙人tube Plus https://github.com/toka-kun/Sennin-Plus
+- MIN-WLYT-Plus https://github.com/wl-unblock/MIN-WLYT-Plus
+- YouTube Plus+ https://github.com/yuto1106110/YouTube-Plus-Plus
+- Yuki YouTube+ https://github.com/myproxy0107-hash/new-yu-yu
+- 新YuZuTube https://github.com/yuzubb/yuzutube
+- チョコtube Plus https://github.com/kuru-bana/Choco-Tube-Plus
+- かつおtube https://github.com/youtubekosub/Katuotube-1
+- 仙人tube Plus https://github.com/senninsugar/sennin-tube-plus
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=toka-kun&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula&count_private=true
